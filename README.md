@@ -59,8 +59,8 @@ ml-100K movies:
 # Notes
 
 - This repository does not contain any of the datasets for the course.
-- Atom was use as text editor while the scripts were run in the ubuntu terminal
-- Unlike the course all scripts were tested in the terminal by running:
+- Atom was used as text editor while the scripts were run in the ubuntu terminal
+- Unlike the course, all scripts were tested in the terminal by running:
 
 ```bash
 python3 script.py
