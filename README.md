@@ -17,7 +17,7 @@ sudo apt-get install oracle-java8-installer
 
 java -version
 
-## This should be displayed on the terminal
+#### This should be displayed on the terminal
 
 java version "1.8.0_201"
 Java(TM) SE Runtime Environment (build 1.8.0_201-b09)
