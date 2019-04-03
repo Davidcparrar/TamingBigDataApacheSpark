@@ -17,13 +17,13 @@ sudo apt-get install oracle-java8-installer
 
 java -version
 
-## This should be promted
+## This should be displayed on the terminal
 
 java version "1.8.0_201"
 Java(TM) SE Runtime Environment (build 1.8.0_201-b09)
 Java HotSpot(TM) 64-Bit Server VM (build 25.201-b09, mixed mode)
 
-## If java 8 not default
+#### If java 8 is not the default
 
 sudo apt-get install oracle-java8-set-default
 
@@ -59,6 +59,7 @@ ml-100K movies:
 # Notes
 
 - This repository does not contain any of the datasets for the course.
+- Atom was use as text editor while the scripts were run in the ubuntu terminal
 - Unlike the course all scripts were tested in the terminal by running:
 
 ```bash
