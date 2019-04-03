@@ -1,4 +1,5 @@
-# This are the scripts to run the Apache Spark course of Taming Big Data Sets with Apache Spark hands on
+
+This are the scripts to run the Apache Spark course of Taming Big Data Sets with Apache Spark hands on
 
 # Installation guide
 
