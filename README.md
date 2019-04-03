@@ -45,7 +45,7 @@ To install
 
 # Data Sources
 
-Most of the data files were provided by the course, however this are the links to other Datasets material needed for the course
+Most of the data files were provided by the course, however this are the links to other Datasets material needed
 
 ml-100K movies:
 - wget http://files.grouplens.org/datasets/movielens/ml-100k.zip
