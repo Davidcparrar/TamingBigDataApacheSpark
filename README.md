@@ -66,3 +66,8 @@ ml-100K movies:
 python3 script.py
 ```
 
+- Fast way to check the first few lines of some of the files
+
+```bash
+head -n 10 file.txt
+```
