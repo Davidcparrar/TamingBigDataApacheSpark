@@ -37,7 +37,7 @@ wget https://www-us.apache.org/dist/spark/spark-2.4.0/spark-2.4.0-bin-hadoop2.7.
 tar -xzvf spark-2.4.0-bin-hadoop2.7.tgz
 sudo mv spark-2.4.0-bin-hadoop2.7 /usr/local/spark
 
-## Into ~/.bashrc add
+#### Into ~/.bashrc add
 
 export PATH=$PATH:/usr/local/spark/bin
 source ~/.bashrc
