@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:webupd8team/java
 
 sudo apt-get install oracle-java8-installer
 
-## Check installation:
+## Check installation
 
 java -version
 
@@ -46,7 +46,7 @@ To install
 
 Most of the data files were provided by the course, however this are the links to other Datasets material needed for the course
 
-ml-100K movies :
+ml-100K movies:
 - wget http://files.grouplens.org/datasets/movielens/ml-100k.zip
 
 # Changes to the scripts from the original source material
@@ -57,5 +57,10 @@ ml-100K movies :
 
 # Notes
 
-This repository does not contain any of the datasets for the course.
+- This repository does not contain any of the datasets for the course.
+- Unlike the course all scripts were tested in the terminal by running:
+
+```bash
+python3 script.py
+```
 
