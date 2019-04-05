@@ -54,7 +54,7 @@ ml-100K movies:
 
 - Since all scripts where written for Windows ("file///PATH") was replaced with (PATH)
 - The name of the u.ITEM file in the ml-100K database changed and now goes by u.item
-- popular-movies-nicer.py: The encoding to open the u.item file needed to be specified ('iso-8859-15)
+- popular-movies-nicer.py: The encoding to open the u.item file needed to be specified ('iso-8859-15 or 'ascii' with errors="ignore")
 - most-popular-superhero.py: Name of .txt files capitalized in the script (Marvel-Names.txt)
 
 # Notes
