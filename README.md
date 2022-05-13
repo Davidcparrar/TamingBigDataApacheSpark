@@ -5,7 +5,7 @@ These are the scripts to run the Apache Spark course of Taming Big Data Sets wit
 
 This guide assumes Python is already installed in the system. The python version where the scripts were tested is Python 3.6.7
 
-## For ubuntu 18.04 http://ubuntuhandbook.org/index.php/2018/05/install-oracle-java-jdk-8-10-ubuntu-18-04/
+For ubuntu 18.04 http://ubuntuhandbook.org/index.php/2018/05/install-oracle-java-jdk-8-10-ubuntu-18-04/
 
 ## Installation of JDK8
 
